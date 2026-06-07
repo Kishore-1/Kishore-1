@@ -3,8 +3,8 @@
 Found me through LLDP/CDP?
 
 DNS Record:
-A     -> Network & Security Engineer
-PTR   -> Kishore M
+*  A     -> Network & Security Engineer
+*  PTR   -> Kishore M
 
 Need to establish connectivity? Feel free to connect with me on LinkedIn.
 
