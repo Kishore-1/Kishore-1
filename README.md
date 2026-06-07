@@ -6,10 +6,10 @@ DNS Record:
 A     -> Network & Security Engineer
 PTR   -> Kishore M
 
-Need to establish **connectivity**? Feel free to connect with me on LinkedIn.
+Need to establish connectivity? Feel free to connect with me on LinkedIn.
 
 URL:
-LinkedIn -> www.linkedin.com/in/**kishore--m**
+LinkedIn -> www.linkedin.com/in/kishore--m
 
 Welcome to my topology.
 
