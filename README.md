@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi There! 👋
 
-<!--
-**Kishore-1/Kishore-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Found me through LLDP/CDP?
 
-Here are some ideas to get you started:
+DNS Record:
+A     -> Network & Security Engineer
+PTR   -> Kishore M
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Need to establish **connectivity**? Feel free to connect with me on LinkedIn.
+
+URL:
+LinkedIn -> www.linkedin.com/in/**kishore--m**
+
+Welcome to my topology.
+
+I'm Kishore, a Network & Security Engineer currently spending most of my time figuring out why routes don't go where they're supposed to and troubleshooting both networks and life.
+
+## Current Status
+
+* CCNA Certified → Currently learning CCNP Enterprise & Security
+* Building enterprise labs in EVE-NG
+* Exploring firewalls, security policies, and routing designs
+* Automating network tasks with Python & Netmiko
+* Breaking things intentionally (and sometimes unintentionally)
+
+## Protocols I Speak
+
+* OSPF
+* BGP
+* TCP/IP
+* ICMP
+* SSH
+* VLANs & Trunking
+
+## Current Projects
+
+* Enterprise EVE-NG Lab
+* Network Automation Scripts
+* Routing & Security Labs
+
+## Fun Facts
+
+* My most used troubleshooting commands are `show` and `traceroute`
+* I read logs more often than magazines
+* If it works, I'll still verify why
+* In the lab, every outage is a learning opportunity
+
+## Favorite Packet
+
+ICMP Echo Reply - type 0
